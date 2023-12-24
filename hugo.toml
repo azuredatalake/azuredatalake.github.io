@@ -1,4 +1,4 @@
 baseURL = 'https://azuredatalake.github.io/'
 languageCode = 'en-us'
 title = 'My Hugo Site'
-theme = 'ananke'
+theme = 'papermod'
